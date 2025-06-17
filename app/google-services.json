@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990213942994",
+    "project_id": "tictactoe-twisted",
+    "storage_bucket": "tictactoe-twisted.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990213942994:android:9e622922887460de9bc70b",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCWDK-ofVjgBwaXRQuviHnmpG-MpglaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
